@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  /*background-color: red;*/
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.Red {
+  background-color: red;
+}
+
+.Blue {
+  background-color: blue;
+}
+
+.Yellow {
+  background-color: yellow;
+}
+
+.Green{
+  background-color: green;
+}
+
+.White{
+  background-color: white;
+}
+
+.Saffron {
+  background-color: #FFA942;
+}
+/*.tweet {
+  background-color: blue;
+}
+
+.twittr {
+  background-color: yellow;
+}
+
+.twittr button{
+  background-color: green;
+}*/
